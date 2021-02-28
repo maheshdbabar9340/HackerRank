@@ -9,13 +9,11 @@ public class Solution {
         int c = scan.nextInt();
         
         // Complete this line
-        // Complete this line
 
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
-        
-        // Complete this line
+
         // Complete this line
     }
 }
