@@ -31,7 +31,6 @@ class Result {
         return date.getDayOfWeek().toString();
 
     }
-
 }
 
 public class Solution {
