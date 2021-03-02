@@ -4,7 +4,6 @@ public class Solution {
 
     static boolean isAnagram(String a, String b) {
         // Complete the function
-        
         char aa[] = a.toLowerCase().toCharArray();
         char bb[] = b.toLowerCase().toCharArray();
         if(a.length() != b.length()){
