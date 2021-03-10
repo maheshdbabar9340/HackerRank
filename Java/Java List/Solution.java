@@ -20,7 +20,7 @@ public class Solution {
                 al.remove(sc.nextInt());
             }  
         }
-        sc.close();  // sc object should be closed before printing output
+        sc.close();   // sc object should be closed before printing output
         for (int num : al)  
             System.out.print(num + " "); 
     } 
